@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dmt on current and former obsessions</title>
+    <link>http://cumol.org/tags/dmt/</link>
+    <description>Recent content in dmt on current and former obsessions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2019 13:31:54 +0200</lastBuildDate>
+    
+	<atom:link href="http://cumol.org/tags/dmt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ly et al. 2018: Psychedelics Promote Structural and Functional Neural Plasticity.</title>
+      <link>http://cumol.org/posts/ly2018/</link>
+      <pubDate>Tue, 31 Dec 2019 13:31:54 +0200</pubDate>
+      
+      <guid>http://cumol.org/posts/ly2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
