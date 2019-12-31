@@ -6,7 +6,7 @@
     <description>Recent content in literature review on current and former obsessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 13:31:54 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 14:42:08 +0200</lastBuildDate>
     
 	<atom:link href="http://cumol.org/categories/literature-review/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,13 @@
     <item>
       <title>Ly et al. 2018: Psychedelics Promote Structural and Functional Neural Plasticity.</title>
       <link>http://cumol.org/posts/ly2018/</link>
-      <pubDate>Tue, 31 Dec 2019 13:31:54 +0200</pubDate>
+      <pubDate>Tue, 31 Dec 2019 14:42:08 +0200</pubDate>
       
       <guid>http://cumol.org/posts/ly2018/</guid>
-      <description></description>
+      <description>This is a test page to check whether everything works alright
+This is code block
+library(tidyverse) This is a heading This is a subheading This is a subsub heading Another heading Some citation (Ly et al. 2018)
+Bibliography Ly, Calvin, Alexandra C. Greb, Lindsay P. Cameron, Jonathan M. Wong, Eden V. Barragan, Paige C. Wilson, Kyle F. Burbach, et al. 2018. “Psychedelics Promote Structural and Functional Neural Plasticity.” Cell Reports 23 (11):3170–82.</description>
     </item>
     
   </channel>
