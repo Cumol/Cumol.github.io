@@ -6,7 +6,7 @@
     <description>Recent content on current and former obsessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 14:49:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 15:09:39 +0200</lastBuildDate>
     
 	<atom:link href="https://Cumol.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +14,10 @@
     <item>
       <title>Ly et al. 2018: Psychedelics Promote Structural and Functional Neural Plasticity.</title>
       <link>https://Cumol.github.io/posts/ly2018/</link>
-      <pubDate>Tue, 31 Dec 2019 14:49:31 +0200</pubDate>
+      <pubDate>Tue, 31 Dec 2019 15:09:39 +0200</pubDate>
       
       <guid>https://Cumol.github.io/posts/ly2018/</guid>
-      <description>This is a test page to check whether everything works alright
-This is code block
-library(tidyverse) This is a heading This is a subheading This is a subsub heading Another heading Some citation (Ly et al. 2018)
-Bibliography Ly, Calvin, Alexandra C. Greb, Lindsay P. Cameron, Jonathan M. Wong, Eden V. Barragan, Paige C. Wilson, Kyle F. Burbach, et al. 2018. “Psychedelics Promote Structural and Functional Neural Plasticity.” Cell Reports 23 (11):3170–82.</description>
+      <description>Note: This is my first attempt of a detailed literature review for &amp;ldquo;not-only&amp;rdquo; scientists. The idea is, instead of &amp;ldquo;dumbing down&amp;rdquo; science to a point it is far from true, I will attempt to explain as much as I see necessary. The hope is that the dissection of the articles into easily-understandable pieces will allow a deeper understanding of the subject. I will mainly focus on neuroscience/biology articles surrounding psychedelics, as this is a subject I, and many others, find interesting.</description>
     </item>
     
   </channel>
