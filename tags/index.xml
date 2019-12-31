@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on current and former obsessions</title>
-    <link>http://cumol.org/tags/</link>
+    <link>https://cumol.github.io/tags/</link>
     <description>Recent content in Tags on current and former obsessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2019 14:49:31 +0200</lastBuildDate>
     
-	<atom:link href="http://cumol.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cumol.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>dmt</title>
-      <link>http://cumol.org/tags/dmt/</link>
+      <link>https://cumol.github.io/tags/dmt/</link>
       <pubDate>Tue, 31 Dec 2019 14:49:31 +0200</pubDate>
       
-      <guid>http://cumol.org/tags/dmt/</guid>
+      <guid>https://cumol.github.io/tags/dmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lsd</title>
-      <link>http://cumol.org/tags/lsd/</link>
+      <link>https://cumol.github.io/tags/lsd/</link>
       <pubDate>Tue, 31 Dec 2019 14:49:31 +0200</pubDate>
       
-      <guid>http://cumol.org/tags/lsd/</guid>
+      <guid>https://cumol.github.io/tags/lsd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>neuroplasticity</title>
-      <link>http://cumol.org/tags/neuroplasticity/</link>
+      <link>https://cumol.github.io/tags/neuroplasticity/</link>
       <pubDate>Tue, 31 Dec 2019 14:49:31 +0200</pubDate>
       
-      <guid>http://cumol.org/tags/neuroplasticity/</guid>
+      <guid>https://cumol.github.io/tags/neuroplasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psilocybin</title>
-      <link>http://cumol.org/tags/psilocybin/</link>
+      <link>https://cumol.github.io/tags/psilocybin/</link>
       <pubDate>Tue, 31 Dec 2019 14:49:31 +0200</pubDate>
       
-      <guid>http://cumol.org/tags/psilocybin/</guid>
+      <guid>https://cumol.github.io/tags/psilocybin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psychedelics</title>
-      <link>http://cumol.org/tags/psychedelics/</link>
+      <link>https://cumol.github.io/tags/psychedelics/</link>
       <pubDate>Tue, 31 Dec 2019 14:49:31 +0200</pubDate>
       
-      <guid>http://cumol.org/tags/psychedelics/</guid>
+      <guid>https://cumol.github.io/tags/psychedelics/</guid>
       <description></description>
     </item>
     
