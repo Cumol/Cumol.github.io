@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neuroplasticity on current and former obsessions</title>
-    <link>https://cumol.github.io/tags/neuroplasticity/</link>
+    <link>https://Cumol.github.io/tags/neuroplasticity/</link>
     <description>Recent content in neuroplasticity on current and former obsessions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2019 14:49:31 +0200</lastBuildDate>
     
-	<atom:link href="https://cumol.github.io/tags/neuroplasticity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Cumol.github.io/tags/neuroplasticity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ly et al. 2018: Psychedelics Promote Structural and Functional Neural Plasticity.</title>
-      <link>https://cumol.github.io/posts/ly2018/</link>
+      <link>https://Cumol.github.io/posts/ly2018/</link>
       <pubDate>Tue, 31 Dec 2019 14:49:31 +0200</pubDate>
       
-      <guid>https://cumol.github.io/posts/ly2018/</guid>
+      <guid>https://Cumol.github.io/posts/ly2018/</guid>
       <description>This is a test page to check whether everything works alright
 This is code block
 library(tidyverse) This is a heading This is a subheading This is a subsub heading Another heading Some citation (Ly et al. 2018)
